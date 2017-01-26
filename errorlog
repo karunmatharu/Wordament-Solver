@@ -1,0 +1,37 @@
+y
+z
+Completed
+True
+Enter letters from the grid: t i s e e o co y s r n e l a z w
+['t', 'i', 's', 'e', 'e', 'o', 'co', 'y', 's', 'r', 'n', 'e', 'l', 'a', 'z', 'w']
+['t', 'i', 's', 'e']
+['e', 'o', 'co', 'y']
+['s', 'r', 'n', 'e']
+['l', 'a', 'z', 'w']
+['tie', 'toi', 'toe', 'iso', 'sey', 'eye', 'eyn', 'ecs', 'eir', 'ose', 'ocn', 'cos', 'coe', 'coy', 'con', 'cor', 'coo',
+'yes', 'yew', 'yez', 'yen', 'set', 'ser', 'roi', 'nye', 'new', 'nar', 'lar', 'lan', 'las', 'arn', 'zar', 'wey', 'wen', '
+tier', 'tosy', 'toco', 'tocn', 'tocr', 'toce', 'isco', 'isce', 'isct', 'seye', 'eyen', 'eyne', 'eion', 'eirs', 'ocnr', '
+ocns', 'ocne', 'cosy', 'cony', 'cone', 'corn', 'cora', 'core', 'coon', 'coot', 'yeso', 'seit', 'sero', 'roit', 'rose', '
+rosy', 'naro', 'lane', 'laze', 'arcn', 'arce', 'zany', 'toise', 'tocny', 'tocne', 'tocrn', 'tocra', 'tocre', 'toern', 't
+oera', 'iscon', 'eiros', 'eiroa', 'osier', 'ocnce', 'ocnca', 'ocnra', 'ocnre', 'ocnse', 'ocner', 'ocnes', 'conal', 'corn
+y', 'coral', 'corse', 'coony', 'cooer', 'seton', 'seise', 'seroa', 'rosca', 'narze', 'naror', 'narot', 'laney', 'laser',
+ 'arose', 'arcse', 'arncy', 'tocnal', 'tocran', 'tocral', 'tocrse', 'toerne', 'toerna', 'toeras', 'iscter', 'seynce', 'e
+irose', 'eirone', 'eiroal', 'ocncza', 'ocnrna', 'ocnral', 'corona', 'corset', 'cooser', 'cootie', 'cooter', 'setose', 's
+erosa', 'seroco', 'serocn', 'seroce', 'seroct', 'seroar', 'roscne', 'roscnt', 'roscan', 'roscae', 'narces', 'narose', 'n
+arosy', 'narote', 'encore', 'lanose', 'arcson', 'arncew', 'arncol', 'arncos', 'tocrney', 'tocrnal', 'toernal', 'coronal'
+, 'seroscn', 'serosal', 'serocrn', 'serocra', 'serocre', 'seroarn', 'seroarl', 'seroala', 'roscnco', 'roscnce', 'roscnse
+', 'roscnte', 'roscans', 'roscaet', 'narcose', 'naroise', 'naroisy', 'narosey', 'naroser', 'naroter', 'eyesore', 'arceit
+o', 'arncose', 'seynceco', 'serocnar', 'serocral', 'seroctie', 'seroaros', 'seroaron', 'seroarce', 'seroarne', 'roscnset
+', 'roscnsal', 'roscance', 'roscanze', 'roscanse', 'roscaeis', 'roscaeit', 'arcsoite', 'arncolso', 'arncosor', 'seynceco
+i', 'coenosite', 'seroarzen', 'seroalare', 'seroalane', 'seyncecone', 'seyncecorn', 'seyncecore', 'seyncecoon', 'seyncec
+oot', 'seyncecoco', 'seyncecocn', 'seyncecoce', 'seyncecoct', 'seyncecoie', 'seyncecoit', 'seyncecorny', 'seyncecorse',
+'seyncecocrn', 'seyncecocra', 'seyncecocre', 'seyncecoion', 'seyncecoier', 'seyncecoite', 'seyncecooter', 'seyncecocnar'
+, 'seyncecocral', 'seyncecoctie']
+PS C:\Users\Karun-PC\Documents\GitHub\Wordament-Player>
+PS C:\Users\Karun-PC\Documents\GitHub\Wordament-Player>
+PS C:\Users\Karun-PC\Documents\GitHub\Wordament-Player>
+PS C:\Users\Karun-PC\Documents\GitHub\Wordament-Player>
+PS C:\Users\Karun-PC\Documents\GitHub\Wordament-Player> python .\gameGrid.py
+searching thin
+Inserting Dictionary...
+a
