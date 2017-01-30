@@ -1,3 +1,4 @@
+#!/usr/bin/python
 
 import trie
 import re
@@ -5,8 +6,6 @@ import sys
 
 MIN_WORD_LENGTH = 3
 GRID_SIZE = 4
-
-#TODO: three character tiles, clean code in findwords function
 
 class Game:
 	def __init__(self, dictionaryTrie):
