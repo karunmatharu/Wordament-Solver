@@ -4,5 +4,5 @@
 
 Wordament is a word puzzle game where with the objective of finding words on a 4x4 Tile grid. Neighbouring tiles are selected to form a stirng of characters that in turn create a word. Each tile may only be used once in the formation of a  word. There are no restrictions on directionality when forming a string of characters.
 
-<img src="./img/img01.png" width="200px">
+<img src="./img/img01.png" width="420px">
 
