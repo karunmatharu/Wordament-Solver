@@ -16,4 +16,4 @@ Either Or Tiles: Two sets of characters separated by a '/' either of which can e
 This program works to find all possible words in a wordament matrix. The dictionary of words is stored in an existence trie (trie.py). Such an existence trie enables fast recursive searching during a depth first graph traversal of the matrix as no duplicate searching computation is carried out for words with common prefixes. 
 
 ### Instructions
-Execute wordamentSolver.py and follow shell instructions.
+Execute ***wordamentSolver.py*** and follow shell instructions.
