@@ -1,4 +1,4 @@
-# Wordament-Player
+# Wordament Solver
 
 #### Please note this is a project to demonstrate use of an existence trie and depth first graph search to rapidly search a dictionary. Any use of this code or others like it to cheat at Wordament is against the app's policies.
 
