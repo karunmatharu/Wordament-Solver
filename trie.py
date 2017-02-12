@@ -6,7 +6,6 @@ class trie:
 	and a terminator bool for strings which end at at this node
 	'''
 	def __init__(self):
-		#print "creating a new trie"
 		self.chars = [None]* 26
 		self.terminates = False
 
