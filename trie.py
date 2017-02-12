@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+
 class trie:
 	'''
 	each node of the trie contains a list of 26 characters 
