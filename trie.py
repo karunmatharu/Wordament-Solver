@@ -1,8 +1,8 @@
-#!/usr/bin/env python 
+#!/usr/bin/python
 class trie:
 	'''
-	each trie contains a list of 26 characters 
-	and a terminator bool for strings
+	each node of the trie contains a list of 26 characters 
+	and a terminator bool for strings which end at at this node
 	'''
 	def __init__(self):
 		#print "creating a new trie"
@@ -10,14 +10,11 @@ class trie:
 		self.terminates = False
 
 	def insert(self, word):
-		#print 'insert function with word: ' + str(word) 
-		# ADD ERROR CHECKING
 		"""
 		if no letters are left in word
 		set the terminator character to True
 		"""
 		if len(word) <= 0:
-			#print 'setting terminator'
 			self.terminates = True
 			return
 
@@ -57,7 +54,6 @@ class trie:
 		if len(stack) > 0 and self.terminates == True:
 			print ''.join(stack)
 		for idx, character in enumerate(self.chars):
-			#print idx, str(character)
 			if character is not None:
 				# push the character onto the stack
 				stack.append(unichr(idx + 97)) # get character from unicode
@@ -86,30 +82,6 @@ class trie:
 		return self.chars[branchIndex]
 
 
-'''
-f = open('words', 'r')
-lines = f.readlines()
 
-tr = trie()
-
-for l in lines:
-	word = l.rstrip('\n')
-	if word.isalpha() and word.islower():
-		tr.insert(word)
-
-
-tr.printStrings()
-'''
-
-
-
-'''
-
-tr = trie()
-
-tr.insertDictionary('words')
-print tr.search('hello')
-print tr.search('jafjdaasd')
-'''
 
 
